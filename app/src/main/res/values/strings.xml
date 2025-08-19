@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XR Gallery</string>
+    <string name="hello_android_xr">Hello Android XR.</string>
+    <string name="switch_to_home_space_mode">Switch to Home Space Mode</string>
+    <string name="switch_to_full_space_mode">Switch to Full Space Mode</string>
+    <string name="previous_image">Previous image</string>
+    <string name="next_image">Next image</string>
+    <string name="error_couldnt_load_image">Couldn\\\'t load image</string>
+    <string name="gallery_lobby_title">Welcome to XR Gallery!</string>
+    <string name="gallery_lobby_input_hint">What\'s the gallery size?</string>
+    <string name="gallery_lobby_enter_button">Enter Gallery</string>
+    <string name="back_to_gallery_lobby">Back to gallery lobby</string>
+</resources>
